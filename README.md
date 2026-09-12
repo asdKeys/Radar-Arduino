@@ -10,4 +10,9 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 
 ## Building
 
-###
+### Wiring
+
+- Arduino Board 5V connects to the red line on the side of the breadboard.
+- Arduino Board GND connects to the blue line on the side of the breadboard.
+- Ultrasonic Sensor VCC connects to the red line on the side of the breadboard
+- Ultrasonic Sensor Trig connects to digital pin 9
