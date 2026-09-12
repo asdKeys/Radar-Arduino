@@ -22,6 +22,12 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 - Servo motor black or brown wire connects to the blue line on the side of the bearboard.
 - Servo motor last wire connects to digital pin 8 on the Arduino board.
 
+### Labels
+
+The object circled in red is an ultrasonic sensor.
+
+The object circled in blue is a servo motor.
+
 ### Diagram
 
 ![Screenshot 1](Screenshot%202026-09-12%20083859.png)
