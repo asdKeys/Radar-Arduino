@@ -10,6 +10,13 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 
 ## Building
 
+### Parts Needed
+
+- Any Arduino board.
+- A breadboard.
+- An ultrasonic sensor.
+- A servo motor.
+
 ### Wiring
 
 - Arduino board 5V connects to the red line on the side of the breadboard.
@@ -27,6 +34,10 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 The object circled in red is an ultrasonic sensor.
 
 The object circled in blue is a servo motor.
+
+The object in the top left corner is your Arduino board.
+
+The object in the bottom left corner is your breadboard.
 
 ### Diagram
 
