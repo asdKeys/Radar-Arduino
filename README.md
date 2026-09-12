@@ -16,6 +16,7 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 - A breadboard.
 - An ultrasonic sensor.
 - A servo motor.
+- 9 wires.
 
 ### Wiring
 
